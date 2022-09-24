@@ -1,5 +1,5 @@
-[![readmebanner](https://raw.githubusercontent.com/diyhrt2/diyhrt2.github.io/red/images/readmebanner.png)](#)
-<h1 align="center">The DIY HRT Directory Mirror </br> 
+[![readmebanner](https://raw.githubusercontent.com/diyhrt2/diyhrt2.github.io/red/images/readmebanner.png)](https://diyhrt2.github.io)
+<h1 align="center"><a href="https://diyhrt2.github.io">The DIY HRT Directory Mirror</a></br> 
 <br/></h1>
 
 <br/>
